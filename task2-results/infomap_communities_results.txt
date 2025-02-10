@@ -1,0 +1,13 @@
+Community 1: India, China, United States, Indonesia, Pakistan, Nigeria, Brazil, Bangladesh, Russia, Ethiopia, Mexico, Japan, Tanzania, Niger, Burkina Faso, Czech Republic, Tajikistan, Papua New Guinea, Portugal, Greece, Hungary, Belarus, Mauritania, Costa Rica, Croatia, Armenia, Lithuania, Jamaica, Albania, Botswana, Guinea-Bissau, Trinidad and Tobago, Bhutan, Suriname, Malta, Maldives, Micronesia, Cabo Verde, Brunei, Belize, Bahamas, Iceland, Vanuatu, Barbados, Sao Tome & Principe, Samoa, Saint Lucia, Kiribati, Seychelles, Grenada, Tonga, St. Vincent & Grenadines, Antigua and Barbuda, Andorra, Dominica, Saint Kitts & Nevis, Tuvalu
+Community 2: Egypt, Philippines, DR Congo, Vietnam, Turkey, Germany, Thailand, United Kingdom, New Zealand, Eritrea, Mongolia, Bosnia and Herzegovina, Qatar, Moldova, Bahrain, Solomon Islands, Liechtenstein, San Marino
+Community 3: Iran, Laos, Turkmenistan, Kyrgyzstan, Paraguay, Nicaragua, Bulgaria, Serbia, El Salvador, Congo, Denmark, Singapore, Lebanon, Finland, Oman, Timor-Leste, Estonia, Cyprus
+Community 4: France, South Africa, Italy, Uruguay, Nauru
+Community 5: Kenya, Myanmar, Colombia, South Korea, Sudan, Uganda, Spain, Algeria, Iraq, Argentina, Afghanistan, Yemen, Canada, Poland, Morocco, Angola, Ukraine, Uzbekistan, Malaysia, Mozambique, Ghana, Peru, Saudi Arabia, Madagascar, Côte d'Ivoire, Nepal, Cameroon, Sweden, Israel, Georgia, Gambia, Lesotho, Equatorial Guinea, Mauritius, Eswatini, Djibouti, Fiji, Comoros, Guyana
+Community 6: Venezuela, Australia, North Korea, Marshall Islands
+Community 7: Syria, Sri Lanka, Malawi, Zambia, Kazakhstan, Chad, Chile, Romania, Somalia, Senegal, Guatemala, Netherlands, Ecuador, Cambodia, Zimbabwe, Guinea, Benin, Rwanda, Burundi, Bolivia, Tunisia, South Sudan, Haiti, Belgium, Dominican Republic, United Arab Emirates, Cuba, Honduras, North Macedonia, Monaco
+Community 8: Mali, Ireland, Kuwait, Panama, Latvia
+Community 9: Jordan, Azerbaijan, Switzerland, Sierra Leone, Libya, Liberia, Norway, Slovakia, Central African Republic, Namibia, Gabon, Slovenia, Luxembourg, Montenegro, Palau
+Community 10: Togo, Austria
+Infomap Modularity: 0.43617675857152555
+Infomap Coverage: 0.17778909831889964
+Infomap Conductance: 0.24152633851468053

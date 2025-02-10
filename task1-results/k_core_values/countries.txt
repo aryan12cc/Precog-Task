@@ -1,0 +1,27 @@
+K-Core Values for countries
+Node A has k-core value 7
+Node B has k-core value 7
+Node C has k-core value 7
+Node D has k-core value 7
+Node E has k-core value 7
+Node F has k-core value 3
+Node G has k-core value 6
+Node H has k-core value 4
+Node I has k-core value 7
+Node J has k-core value 2
+Node K has k-core value 5
+Node L has k-core value 7
+Node M has k-core value 7
+Node N has k-core value 7
+Node O has k-core value 7
+Node P has k-core value 6
+Node Q has k-core value 2
+Node R has k-core value 4
+Node S has k-core value 7
+Node T has k-core value 7
+Node U has k-core value 7
+Node V has k-core value 3
+Node W has k-core value 0
+Node X has k-core value 0
+Node Y has k-core value 6
+Node Z has k-core value 2

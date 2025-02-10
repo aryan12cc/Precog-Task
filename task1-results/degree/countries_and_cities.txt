@@ -1,0 +1,37 @@
+Node Degrees for countries_and_cities
+Node A has in-degree 154 and out-degree 45
+Node B has in-degree 0 and out-degree 63
+Node C has in-degree 3 and out-degree 47
+Node D has in-degree 23 and out-degree 27
+Node E has in-degree 43 and out-degree 11
+Node F has in-degree 0 and out-degree 12
+Node G has in-degree 58 and out-degree 28
+Node H has in-degree 11 and out-degree 30
+Node I has in-degree 60 and out-degree 14
+Node J has in-degree 1 and out-degree 20
+Node K has in-degree 9 and out-degree 34
+Node L has in-degree 14 and out-degree 35
+Node M has in-degree 17 and out-degree 63
+Node N has in-degree 85 and out-degree 32
+Node O has in-degree 44 and out-degree 6
+Node P has in-degree 1 and out-degree 34
+Node Q has in-degree 1 and out-degree 9
+Node R has in-degree 34 and out-degree 15
+Node S has in-degree 38 and out-degree 68
+Node T has in-degree 15 and out-degree 40
+Node U has in-degree 44 and out-degree 10
+Node V has in-degree 3 and out-degree 10
+Node W has in-degree 4 and out-degree 8
+Node X has in-degree 1 and out-degree 8
+Node Y has in-degree 24 and out-degree 12
+Node Z has in-degree 6 and out-degree 12
+Stuck Nodes
+A player can get stuck at node A
+A player can get stuck at node E
+A player can get stuck at node G
+A player can get stuck at node I
+A player can get stuck at node N
+A player can get stuck at node O
+A player can get stuck at node R
+A player can get stuck at node U
+A player can get stuck at node Y

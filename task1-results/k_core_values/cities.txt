@@ -1,0 +1,27 @@
+K-Core Values for cities
+Node A has k-core value 12
+Node B has k-core value 12
+Node C has k-core value 11
+Node D has k-core value 12
+Node E has k-core value 12
+Node F has k-core value 5
+Node G has k-core value 12
+Node H has k-core value 12
+Node I has k-core value 12
+Node J has k-core value 8
+Node K has k-core value 12
+Node L has k-core value 12
+Node M has k-core value 12
+Node N has k-core value 12
+Node O has k-core value 12
+Node P has k-core value 12
+Node Q has k-core value 5
+Node R has k-core value 12
+Node S has k-core value 12
+Node T has k-core value 12
+Node U has k-core value 12
+Node V has k-core value 6
+Node W has k-core value 8
+Node X has k-core value 4
+Node Y has k-core value 12
+Node Z has k-core value 11

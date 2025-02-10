@@ -1,0 +1,7 @@
+Closed Subgraphs for countries_and_cities
+The closed subgraph is ('A', 'I', 'U')
+The closed subgraph is ('A', 'U', 'I')
+The closed subgraph is ('I', 'A', 'U')
+The closed subgraph is ('I', 'U', 'A')
+The closed subgraph is ('U', 'A', 'I')
+The closed subgraph is ('U', 'I', 'A')

@@ -1,0 +1,27 @@
+K-Core Values for countries_and_cities
+Node A has k-core value 15
+Node B has k-core value 15
+Node C has k-core value 13
+Node D has k-core value 15
+Node E has k-core value 15
+Node F has k-core value 7
+Node G has k-core value 15
+Node H has k-core value 15
+Node I has k-core value 15
+Node J has k-core value 8
+Node K has k-core value 15
+Node L has k-core value 15
+Node M has k-core value 15
+Node N has k-core value 15
+Node O has k-core value 15
+Node P has k-core value 14
+Node Q has k-core value 6
+Node R has k-core value 15
+Node S has k-core value 15
+Node T has k-core value 15
+Node U has k-core value 15
+Node V has k-core value 7
+Node W has k-core value 8
+Node X has k-core value 4
+Node Y has k-core value 15
+Node Z has k-core value 13
